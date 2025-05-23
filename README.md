@@ -1,6 +1,6 @@
 # Hospi Web
 
-## Hospital Management System (Hospi) is now available on the web for a **UI demo!**
+## Who said that fullstack with Java is impossible? Hospital Management System (Hospi) is now available on the web for a **UI demo!**
 
 🌐 [https://hospi.mertguler.me/](https://hospi.mertguler.me/)
 
