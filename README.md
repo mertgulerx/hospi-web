@@ -8,3 +8,6 @@
 
 This is a **pure Java project** using JavaFX, so it is released nly on the web to **showcase** the user interface.  
 Many functions will **not work** because it is **not a web application** :)
+
+
+Desktop only.
