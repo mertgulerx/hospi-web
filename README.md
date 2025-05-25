@@ -7,7 +7,7 @@
 ---
 
 This is a **pure Java project** that uses JavaFX, so it is released on the web only to **showcase** the user interface.  
-Many functions will **not work** because it is **not designed to be a web application** :)
+Many features will **not work** because it is **not designed to be a web application** :)
 
 > [!WARNING]  
 > Desktop browsers only
